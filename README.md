@@ -1,2 +1,2 @@
 # Guildwars
-A plugin for minecraft. Just a hoby
+A plugin for minecraft. Just a hobby
